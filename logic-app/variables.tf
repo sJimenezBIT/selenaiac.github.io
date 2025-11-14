@@ -1,0 +1,9 @@
+variable "tags" {}
+variable "resource_group" {}
+variable "service_plan" {}
+variable "logic_app" {}
+variable "sa" {}
+variable "subnet" {}
+variable "subnet_pe" {}
+variable "vnet_id" {}
+variable "file_share_name" {}
